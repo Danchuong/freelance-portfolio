@@ -6,6 +6,11 @@
   --color-bean: #2b1d14;
   --color-roast: #5a3825;
   --color-clay: #c2410c;
+  /* /shop-demo palette */
+  --color-linen: #f7f3ea;
+  --color-moss: #3f5a3a;
+  --color-honey: #d98e2b;
+  --color-ink: #23261f;
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
   --font-serif: var(--font-fraunces), ui-serif, Georgia, serif;
 }
